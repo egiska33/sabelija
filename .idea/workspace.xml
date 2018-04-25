@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87e12f9e-94ac-4a9a-b1fd-193a1139c14f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/PHP/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PHP/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1148">
+              <caret line="41" column="33" selection-start-line="41" selection-end-line="41" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PHP" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PHP/routes/web.php" />
+        <option value="$PROJECT_DIR$/PHP/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/PHP/app/Http/Controllers/HelpController.php" />
+        <option value="$PROJECT_DIR$/PHP/app/Http/Controllers/RequirementsController.php" />
+        <option value="$PROJECT_DIR$/PHP/app/Http/Controllers/TasksController.php" />
+        <option value="$PROJECT_DIR$/PHP/app/Http/Controllers/UsersAdminController.php" />
+        <option value="$PROJECT_DIR$/PHP/app/Http/Controllers/UserSettingsController.php" />
+        <option value="$PROJECT_DIR$/PHP/app/Http/Controllers/WorkersController.php" />
+        <option value="$PROJECT_DIR$/PHP/app/Http/Middleware/SessionTimeout.php" />
+        <option value="$PROJECT_DIR$/PHP/app/Policies/ActualEventPolicy.php" />
+        <option value="$PROJECT_DIR$/PHP/app/Policies/NewUserPolicy.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/PHP/node_modules" />
+    <handled-path value="$PROJECT_DIR$/PHP/public/css/skins/node_modules" />
+    <handled-path value="$PROJECT_DIR$/PHP/public/fonts/bootstrap/node_modules" />
+    <handled-path value="$PROJECT_DIR$/PHP/public/fonts/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/PHP/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/PHP/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/PHP/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/PHP/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/PHP/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/PHP/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/PHP/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/PHP/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/PHP/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/PHP/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/PHP/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/PHP/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/PHP/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/PHP/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/PHP/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/PHP/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/PHP/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/PHP/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/PHP/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/PHP/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/PHP/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/PHP/vendor/facebook/webdriver" />
+      <path value="$PROJECT_DIR$/PHP/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/PHP/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/PHP/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/PHP/vendor/kriswallsmith/buzz" />
+      <path value="$PROJECT_DIR$/PHP/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/PHP/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpoffice/phpexcel" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/PHP/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/PHP/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/PHP/vendor/acacha/admin-lte-template-laravel" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/PHP/vendor/acacha/helpers" />
+      <path value="$PROJECT_DIR$/PHP/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/PHP/vendor/laravel/browser-kit-testing" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/PHP/vendor/acacha/filesystem" />
+      <path value="$PROJECT_DIR$/PHP/vendor/acacha/user" />
+      <path value="$PROJECT_DIR$/PHP/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/PHP/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/PHP/vendor/laravel/dusk" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/PHP/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/PHP/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/PHP/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/PHP/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/PHP/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/PHP/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/PHP/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/PHP/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/PHP/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/PHP/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/PHP/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/PHP/vendor/composer" />
+      <path value="$PROJECT_DIR$/PHP/vendor/anhskohbo/no-captcha" />
+      <path value="$PROJECT_DIR$/PHP/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/PHP/vendor/creativeorange/gravatar" />
+      <path value="$PROJECT_DIR$/PHP/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/PHP/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/PHP/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/PHP/vendor/sebastian/diff" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sabelija" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sabelija" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87e12f9e-94ac-4a9a-b1fd-193a1139c14f" name="Default" comment="" />
+      <created>1521013139713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521013139713</updated>
+      <workItem from="1521013166836" duration="4779000" />
+      <workItem from="1521656928919" duration="585000" />
+      <workItem from="1522048408576" duration="1426000" />
+      <workItem from="1522148399398" duration="612000" />
+      <workItem from="1522409968477" duration="11000" />
+      <workItem from="1523953115423" duration="480000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix">
+      <created>1522136757173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522136757173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7893000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="DB Browser" order="2" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="GitLabIntegration" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PHP/app/Policies/HelpPolicy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Policies/HelpPolicy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Policies/HelpPolicy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Providers/RouteServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1126" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6097" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/resources/assets/js/components/auth/RegisterForm.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1784" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/resources/assets/js/components/auth/EmailResetPasswordForm.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/resources/views/vendor/adminlte/layouts/partials/sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/resources/views/layouts/aside.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="85" column="37" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="778">
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/resources/views/emails/newRegistration.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" lean-forward="true" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/ActualEventController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/ChangePasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-492" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/CompaniesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1028" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/HelpController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-790" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/MailController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-930" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/NewUserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/RequirementsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="135" column="22" lean-forward="true" selection-start-line="135" selection-start-column="22" selection-end-line="135" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/SystemUsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/TasksController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/UsersAdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="173" column="26" selection-start-line="173" selection-start-column="26" selection-end-line="173" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/UserSettingsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Controllers/WorkersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="104" column="24" lean-forward="true" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Middleware/isAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Middleware/SessionTimeout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Requests/AddNewEmployees.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Requests/StoreNewUserRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Http/Requests/UpdateRequirementsRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Mail/NewRegistration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Mail/NewUserActivation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Mail/NewUserRegister.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Policies/ActualEventPolicy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Policies/NewUserPolicy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/app/Policies/HelpPolicy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1148">
+          <caret line="41" column="33" selection-start-line="41" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
